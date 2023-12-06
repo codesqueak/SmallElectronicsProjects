@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 80bus)(type Legacy)(uri ${KIPRJMOD}/80bus.lib)(options "")(descr ""))
+  (lib (name N1Graphics-rescue)(type Legacy)(uri ${KIPRJMOD}/N1Graphics-rescue.lib)(options "")(descr ""))
+)

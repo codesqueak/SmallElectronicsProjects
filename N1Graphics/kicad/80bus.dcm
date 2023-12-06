@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24_Pin_DIP
+D 24 pin DIP
+K 24 pin DIP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf
+$ENDCMP
+#
+$CMP 2716
+D  EPROM16 KiBit, [Obsolete 2004-01]
+K  EPROM 16KiBit
+F http://ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf
+$ENDCMP
+#
+$CMP 2764
+D EPROM 64 KiBit, [Obsolete 2000-11]
+K EPROM 64KiBit
+F https://downloads.reactivemicro.com/Electronics/ROM/2764%20EPROM.pdf
+$ENDCMP
+#
+$CMP 27C64_With_NC
+D OTP EPROM 64 KiBit, [Obsolete 2004-01]
+K OTP EPROM 64KiBit
+F http://ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf
+$ENDCMP
+#
+$CMP Character_ROM
+D 24 pin DIP
+K 24 pin DIP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf
+$ENDCMP
+#
+#End Doc Library
