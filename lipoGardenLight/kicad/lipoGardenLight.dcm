@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B772
+D Medium Power PNP Transistors, SOT-32
+K Power PNP Transistor
+F https://datasheetspdf.com/pdf/1134449/STMicroelectronics/B772/1
+$ENDCMP
+#
+#End Doc Library
