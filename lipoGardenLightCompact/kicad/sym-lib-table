@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lipoGardenLight-rescue)(type Legacy)(uri ${KIPRJMOD}/lipoGardenLight-rescue.lib)(options "")(descr ""))
+)

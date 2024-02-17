@@ -1,0 +1,82 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# custom_Conn_01x05_Male(RPiHeader)
+#
+DEF custom_Conn_01x05_Male(RPiHeader) J 0 40 Y N 1 F N
+F0 "J" 0 300 50 H V C CNN
+F1 "custom_Conn_01x05_Male(RPiHeader)" 0 -300 50 V V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S 34 -195 0 -205 1 1 6 F
+S 34 -95 0 -105 1 1 6 F
+S 34 5 0 -5 1 1 6 F
+S 34 105 0 95 1 1 6 F
+S 34 205 0 195 1 1 6 F
+P 2 1 1 6 50 -200 34 -200 N
+P 2 1 1 6 50 -100 34 -100 N
+P 2 1 1 6 50 0 34 0 N
+P 2 1 1 6 50 100 34 100 N
+P 2 1 1 6 50 200 34 200 N
+X Pin_1 1 200 200 150 L 50 50 1 1 P
+X Pin_2 2 200 100 150 L 50 50 1 1 P
+X Pin_3 3 200 0 150 L 50 50 1 1 P
+X Pin_4 4 200 -100 150 L 50 50 1 1 N
+X Pin_5 5 200 -200 150 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# custom_Grove
+#
+DEF custom_Grove J 0 40 Y Y 1 L N
+F0 "J" -200 230 50 H V L BNN
+F1 "custom_Grove" -118 -374 50 H V L BNN
+F2 "SEEED_110990030" 0 0 50 H I L BNN
+F3 "A" 0 0 50 H I L BNN
+F4 "8.1mm" 0 0 50 H I L BNN
+F5 "Seeed Technology" 0 0 50 H I L BNN
+F6 "Manufacturer Recommendations" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -200 -300 200 -300 N
+P 2 0 0 10 -200 200 -200 -300 N
+P 2 0 0 10 200 -300 200 200 N
+P 2 0 0 10 200 200 -200 200 N
+X SCL_(Y) 1 -400 100 200 R 40 40 0 0 P
+X SDA_(W) 2 -400 0 200 R 40 40 0 0 P
+X VCC_(R) 3 -400 -100 200 R 40 40 0 0 P
+X GND_(B) 4 -400 -200 200 R 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
+# power_GND
+#
+DEF power_GND #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "power_GND" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# power_VCC
+#
+DEF power_VCC #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "power_VCC" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 75 25 0 1 0 N
+P 2 0 1 0 0 0 0 50 N
+X VCC 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# QX5252F-gardenlight
+#
+DEF QX5252F-gardenlight U 0 40 Y Y 1 F N
+F0 "U" 0 -250 50 H V C CNN
+F1 "QX5252F-gardenlight" 0 250 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -250 200 250 -200 0 1 0 N
+X SBAT 1 -350 100 100 R 50 50 1 1 I
+X BAT 2 -350 -100 100 R 50 50 1 1 I
+X Vss 3 350 -100 100 L 50 50 1 1 I
+X LX 4 350 100 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
