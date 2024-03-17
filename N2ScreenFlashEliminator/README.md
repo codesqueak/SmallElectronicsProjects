@@ -8,4 +8,4 @@ This was developed as I found that the unclean video from the Nascom 2 lead to V
 
 ![PCB From JLCPCB](pcb.png)
 
-![Built and Installed](installed unit.png)
+![Built and Installed](installed_unit.png)
