@@ -7,7 +7,9 @@ A gadget to reduce screen flash on N2 video
 
 Features
 
-* It works
+* Screen Flash goes away !
 
 
 ![PCB From JLCPCB](pcb.png)
+
+![Built and Installed](installed unit.png)

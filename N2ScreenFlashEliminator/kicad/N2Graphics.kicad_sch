@@ -2045,7 +2045,7 @@
     (uuid fb2a5152-2bb8-49b0-b819-aa7184e59c1c)
   )
 
-  (text "Connections\n\nUnit replaces IC69 (74LS32)\n\nTP1 - IC1/24 (Useable TPH near ear IC7)\n\nTP2 - IC67/11 (Usable TPH near IC67)\n\nRemove IC58 (Snowplough) (74LS123)\n\n\n\n\n\n"
+  (text "Connections\n\nUnit replaces IC69 (74LS32)\n\nTP1 - IC1/24 (Useable TPH near IC7)\n\nTP2 - IC67/11 (Usable TPH near IC67)\n\nRemove IC58 (Snowplough) (74LS123)\n\n\n\n\n\n"
     (at 27.94 158.75 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 02ab0a83-14a0-49ef-a9c7-8fe38bcf1606)
