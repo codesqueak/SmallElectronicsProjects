@@ -57,7 +57,7 @@ want to solder the connecting wires before coating the whole unit with a conform
 
 <img src="images/back.png"/>
 
-Not the best image - the camera seemes to have problems with the shiny copper surface.
+Not the best image - the camera seems to have problems with the shiny copper surface.
 
 ### PCB - JLC
 
