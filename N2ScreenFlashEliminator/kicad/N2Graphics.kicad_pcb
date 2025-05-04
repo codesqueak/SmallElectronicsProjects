@@ -4314,7 +4314,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "CS-001"
+	(gr_text "CS-008"
 		(at 119.820064 80.597686 0)
 		(layer "B.SilkS")
 		(uuid "11e556a8-cfa5-4d65-bc82-1d8731db688f")
@@ -4339,7 +4339,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "8a0fbfad-baae-4ae9-97e5-829d795d34c3"
+	(gr_text "41ec1422-d5ef-4889-9045-bffbed790e82"
 		(at 157.490581 80.593881 0)
 		(layer "B.SilkS")
 		(uuid "a8e0fe7f-99e3-4dbd-92da-5edf97ce53c1")

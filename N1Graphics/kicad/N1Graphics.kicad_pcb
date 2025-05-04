@@ -2402,6 +2402,18 @@
 			(justify mirror)
 		)
 	)
+	(gr_text "CS-009"
+		(at 122.95547 46.08575 0)
+		(layer "B.SilkS")
+		(uuid "65223f88-7dc1-43cf-8cbc-961314ee0774")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+			)
+			(justify mirror)
+		)
+	)
 	(gr_text "Nascom 1 Required Modification\n\nIC 20 Pin 12 to IC 17 Pin 18\nIC 17 Pin 19 to IC 16 Pin 14\nJ1 wire link to IC 15 Pin 6\n(Bend pin out of socket \nfor wire link)"
 		(at 119.099122 63.77315 90)
 		(layer "B.SilkS")

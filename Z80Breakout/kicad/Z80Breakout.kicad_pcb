@@ -3504,7 +3504,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "CS-002"
+	(gr_text "CS-007"
 		(at 115.65216 108.286691 0)
 		(layer "F.SilkS")
 		(uuid "91259843-98c7-440f-a73a-7dc07b24397c")
